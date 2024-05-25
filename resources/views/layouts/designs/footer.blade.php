@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer class="text-center text-lg-start text-muted" style="background-color: black">
-  
+   thus
     <section class="">
       <div class="container text-center text-md-start mt-5">
         <div class="row mt-3">
